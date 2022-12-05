@@ -4,8 +4,7 @@ public class Main {
 
         System.out.println(calculator.add(4,5));
         System.out.println(calculator.subtraction(4,5));
-
-        System.out.println("Test");
+        
     }
 }
 
